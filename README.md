@@ -1,1 +1,1 @@
-Web designing practise with Bootstrap
+Web designing practice with Bootstrap
